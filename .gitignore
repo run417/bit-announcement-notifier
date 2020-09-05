@@ -137,3 +137,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+/tests/
+/manage_subscribers.py
+test.py
+.idea

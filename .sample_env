@@ -1,0 +1,9 @@
+HOST=localhost
+DATABASE=ban_app_db
+USER=ban_app_user_01
+PASSWORD=1234
+
+TEXTIT_ID=
+TEXTIT_PW=
+
+
